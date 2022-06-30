@@ -14,7 +14,7 @@ For using this Sudoku Solver just type your Sudoku puzzle in boxes of GUI and cl
 
 ## Screenshots
 
-![Home](https://i.ibb.co/ysh0Gt8/image.png)
+![Home]([https://i.ibb.co/ysh0Gt8/image.png])
 ---
 ![Home](https://i.ibb.co/mzHh1TV/image.png)
 
