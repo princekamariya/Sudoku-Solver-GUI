@@ -1,4 +1,3 @@
-
 # Sudoku Solver 
  
 This Sudoku Solver that solves almost any Sudoku Puzzle using the Backtracking Algorithm which is created using tkinter in Python. You can use this Sudoku Solver to get any Sudoku puzzle's solution instantly. 
