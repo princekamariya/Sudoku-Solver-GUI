@@ -6,8 +6,6 @@ This Sudoku Solver that solves almost any Sudoku Puzzle using the Backtracking A
 For using this Sudoku Solver just type your Sudoku puzzle in boxes of GUI and click on solve button, And run gui.py to start this Sudoku Solver. 
 
 
-
-
 ## Built With
 
 - Python
